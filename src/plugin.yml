@@ -1,0 +1,9 @@
+name: EasterEggs
+version: 1.0
+description: Collect the eggs :D
+author: Sjalfsvig
+main: me.sunrise39.eastereggs.EasterEggs
+commands:
+  easteregg:
+    description: Main command for easter eggs.
+    aliases: [egg, easter, ee, eastereggs]
